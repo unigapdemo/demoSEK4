@@ -1,0 +1,288 @@
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
+def fibonnaci(n):
+    if n == 1:
+        return 1
+    if n == 0:
+        return 0
+    a = fibonnaci(n -1) # chac chan la no tra ve 3
+    b = fibonnaci(n -2) # chac chan la no tra ve 2
+    return a + b
